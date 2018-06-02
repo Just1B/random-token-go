@@ -1,5 +1,7 @@
 # Run the script
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-go.svg)](https://forthebadge.com)
+
 ```sh
  go run main.go
 ```
